@@ -10,10 +10,11 @@
 <h5>Robot Open AI</h5>
 <li>https://chat.openai.com/</li>
   
-  <h5>c Learning</h5>
+  <h5>C Programming Learning. </h5>
   <li>https://www.programiz.com/c-programming</li>
   
-
+  <h5>Pythone Programming Learning. </h5>
+  <li>https://www.programiz.com/python-programming</li>
 
 
 
