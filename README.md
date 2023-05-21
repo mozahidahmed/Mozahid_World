@@ -9,6 +9,8 @@
 <li>https://animista.net/play/</li>
 <h5>Robot Open AI</h5>
 <li>https://chat.openai.com/</li>
+  <h5>Rendaring Web</h5>
+  <li>https://web.dev/rendering-on-the-web/#a-rehydration-problem-one-app-for-the-price-of-two<\li>
   
   <h5>C Programming Learning. </h5>
   <li>https://www.programiz.com/c-programming</li>
