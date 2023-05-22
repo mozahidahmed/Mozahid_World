@@ -17,6 +17,9 @@
   
   <h5>Pythone Programming Learning. </h5>
   <li>https://www.programiz.com/python-programming</li>
+    
+    <h5>prompt Engineering </h5>
+    <li>https://drive.google.com/file/d/1dzHmrr1_2i5HSdcJynWReeLrVMUVi2g5/view?usp=drivesdk</li>
 
 
 
